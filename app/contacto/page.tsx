@@ -50,7 +50,7 @@ export default function ContactoPage() {
 
                 <div className="space-y-4 mb-8">
                   {[
-                    { icon: "📧", label: "Email", value: "cpardo@northfactoryllc.com" },
+                    { icon: "📧", label: "Email", value: "media@carmenvictoriapardo.com" },
                     { icon: "📱", label: "WhatsApp", value: "+1 (786) 975-6228" },
                     { icon: "📍", label: "Ubicación", value: "Doral, Miami, FL 33178" },
                   ].map((item) => (

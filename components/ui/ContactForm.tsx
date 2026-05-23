@@ -160,7 +160,7 @@ export default function ContactForm() {
       )}
       {status === "error" && (
         <p className="text-sm text-red-400 font-[family-name:var(--font-inter)] text-center">
-          Hubo un error. Por favor escríbeme directamente a cpardo@northfactoryllc.com
+          Hubo un error. Por favor escríbeme directamente a media@carmenvictoriapardo.com
         </p>
       )}
     </form>
