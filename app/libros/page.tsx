@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import Image from "next/image";
+import SafeImage from "@/components/ui/SafeImage";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -162,8 +162,9 @@ export default function LibrosPage() {
                 >
                   {/* Cover */}
                   <div className="relative aspect-[3/4] overflow-hidden">
-                    <Image
+                    <SafeImage
                       src={book.cover}
+                      fallbackSrc={`/images/books/${book.slug}.svg`}
                       alt={`${book.title} — Carmen Victoria Pardo`}
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-500"

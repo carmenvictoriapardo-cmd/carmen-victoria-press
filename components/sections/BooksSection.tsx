@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import Image from "next/image";
+import SafeImage from "@/components/ui/SafeImage";
 
 const books = [
   {
@@ -102,8 +102,9 @@ export default function BooksSection() {
             >
               {/* Cover */}
               <div className="relative aspect-[2/3] bg-[var(--card)] overflow-hidden mb-4 border border-[var(--border)] group-hover:border-[var(--accent)]/40 transition-all duration-300">
-                <Image
+                <SafeImage
                   src={book.cover}
+                  fallbackSrc={`/images/books/${book.slug}.svg`}
                   alt={`${book.title} — Carmen Victoria Pardo`}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import Image from "next/image";
+// Image import removed — headshots loaded via AboutSection component
 
 export const metadata: Metadata = {
   title: "Sobre Mí",
