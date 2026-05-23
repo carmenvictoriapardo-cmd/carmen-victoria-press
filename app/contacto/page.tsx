@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Contrata a Carmen Victoria Pardo para conferencias, eventos, mentoría o colaboraciones de medios. Respuesta en menos de 48 horas.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/contacto",
+    canonical: "https://media.carmenvictoriapardo.com/contacto",
   },
 };
 
@@ -16,8 +16,8 @@ const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://press.carmenvictoriapardo.com" },
-    { "@type": "ListItem", position: 2, name: "Contacto", item: "https://press.carmenvictoriapardo.com/contacto" },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://media.carmenvictoriapardo.com" },
+    { "@type": "ListItem", position: 2, name: "Contacto", item: "https://media.carmenvictoriapardo.com/contacto" },
   ],
 };
 

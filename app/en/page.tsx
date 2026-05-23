@@ -8,10 +8,10 @@ export const metadata: Metadata = {
   description:
     "Award-winning author, media host, and international coach with 35 years in media. 2× Emmy Awards winner. 5 published books. Founder & CEO of North Factory LLC.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/en",
+    canonical: "https://media.carmenvictoriapardo.com/en",
     languages: {
-      "es-US": "https://press.carmenvictoriapardo.com",
-      "en-US": "https://press.carmenvictoriapardo.com/en",
+      "es-US": "https://media.carmenvictoriapardo.com",
+      "en-US": "https://media.carmenvictoriapardo.com/en",
     },
   },
 };

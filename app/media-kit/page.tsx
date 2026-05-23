@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Media Kit oficial de Carmen Victoria Pardo: biografía, fotos profesionales, premios, temas de conferencia y datos de contacto para prensa y medios.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/media-kit",
+    canonical: "https://media.carmenvictoriapardo.com/media-kit",
   },
 };
 

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Artículos de Carmen Victoria Pardo sobre liderazgo consciente, emprendimiento, marca personal, productividad y medios internacionales.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/blog",
+    canonical: "https://media.carmenvictoriapardo.com/blog",
   },
 };
 

@@ -17,7 +17,7 @@ const personSchema = {
   familyName: "Pardo",
   description:
     "Escritora, conductora y coach internacional con 35 años en medios. Fundadora & CEO de North Factory LLC. Ganadora de 2 Emmy Awards, 2 Telly Awards y Medalla de Oro ILBA.",
-  url: "https://press.carmenvictoriapardo.com",
+  url: "https://media.carmenvictoriapardo.com",
   sameAs: [
     "https://carmenvictoriapardo.com",
     "https://www.instagram.com/soycarmenvictoriapardo",
@@ -106,7 +106,7 @@ const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Carmen Victoria Pardo — Sitio Oficial de Prensa",
-  url: "https://press.carmenvictoriapardo.com",
+  url: "https://media.carmenvictoriapardo.com",
   description:
     "Sitio oficial de prensa de Carmen Victoria Pardo. Media kit, libros, conferencias y cobertura mediática.",
   inLanguage: ["es", "en"],
@@ -116,7 +116,7 @@ const websiteSchema = {
   },
   potentialAction: {
     "@type": "SearchAction",
-    target: "https://press.carmenvictoriapardo.com/buscar?q={search_term_string}",
+    target: "https://media.carmenvictoriapardo.com/buscar?q={search_term_string}",
     "query-input": "required name=search_term_string",
   },
 };

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
       "35 años transformando medios y vidas. Su historia completa: Venezuela, Miami, 5 continentes.",
   },
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/sobre-mi",
+    canonical: "https://media.carmenvictoriapardo.com/sobre-mi",
   },
 };
 
@@ -72,13 +72,13 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       position: 1,
       name: "Inicio",
-      item: "https://press.carmenvictoriapardo.com",
+      item: "https://media.carmenvictoriapardo.com",
     },
     {
       "@type": "ListItem",
       position: 2,
       name: "Sobre Mí",
-      item: "https://press.carmenvictoriapardo.com/sobre-mi",
+      item: "https://media.carmenvictoriapardo.com/sobre-mi",
     },
   ],
 };

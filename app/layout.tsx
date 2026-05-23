@@ -14,7 +14,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const siteUrl = "https://press.carmenvictoriapardo.com";
+const siteUrl = "https://media.carmenvictoriapardo.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

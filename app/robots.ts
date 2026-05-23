@@ -17,7 +17,7 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "Cohere-AI", allow: "/" },
       { userAgent: "Applebot-Extended", allow: "/" },
     ],
-    sitemap: "https://press.carmenvictoriapardo.com/sitemap.xml",
-    host: "https://press.carmenvictoriapardo.com",
+    sitemap: "https://media.carmenvictoriapardo.com/sitemap.xml",
+    host: "https://media.carmenvictoriapardo.com",
   };
 }

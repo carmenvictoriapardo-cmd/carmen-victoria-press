@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description:
     "5 libros de Carmen Victoria Pardo disponibles en Amazon. Ficción premiada, desarrollo personal y productividad en español e inglés.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/libros",
+    canonical: "https://media.carmenvictoriapardo.com/libros",
   },
 };
 
@@ -98,10 +98,10 @@ const booksSchema = books.map((book) => ({
   author: {
     "@type": "Person",
     name: "Carmen Victoria Pardo",
-    url: "https://press.carmenvictoriapardo.com",
+    url: "https://media.carmenvictoriapardo.com",
   },
   inLanguage: book.lang === "ES" ? "es" : "en",
-  url: `https://press.carmenvictoriapardo.com/libros/${book.slug}`,
+  url: `https://media.carmenvictoriapardo.com/libros/${book.slug}`,
   offers: {
     "@type": "Offer",
     url: book.amazon,
@@ -116,8 +116,8 @@ const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://press.carmenvictoriapardo.com" },
-    { "@type": "ListItem", position: 2, name: "Libros", item: "https://press.carmenvictoriapardo.com/libros" },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://media.carmenvictoriapardo.com" },
+    { "@type": "ListItem", position: 2, name: "Libros", item: "https://media.carmenvictoriapardo.com/libros" },
   ],
 };
 

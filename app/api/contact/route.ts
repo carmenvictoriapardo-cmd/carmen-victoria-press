@@ -23,7 +23,7 @@ export async function POST(req: NextRequest) {
 <body style="font-family: Georgia, serif; background: #0a0a0a; color: #f0ede8; padding: 40px 20px;">
   <div style="max-width: 600px; margin: 0 auto; background: #141414; border: 1px solid #2a2a2a; padding: 40px;">
     <h1 style="color: #c9a84c; font-size: 24px; margin-bottom: 8px;">Nueva Solicitud de Contacto</h1>
-    <p style="color: #6b6b6b; font-size: 12px; margin-bottom: 30px;">press.carmenvictoriapardo.com</p>
+    <p style="color: #6b6b6b; font-size: 12px; margin-bottom: 30px;">media.carmenvictoriapardo.com</p>
 
     <table style="width: 100%; border-collapse: collapse;">
       <tr>
@@ -54,7 +54,7 @@ export async function POST(req: NextRequest) {
     </div>
 
     <div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #2a2a2a;">
-      <p style="color: #6b6b6b; font-size: 11px;">Carmen Victoria Pardo · press.carmenvictoriapardo.com</p>
+      <p style="color: #6b6b6b; font-size: 11px;">Carmen Victoria Pardo · media.carmenvictoriapardo.com</p>
     </div>
   </div>
 </body>
