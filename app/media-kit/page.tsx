@@ -125,7 +125,7 @@ export default function MediaKitPage() {
                   <div className="space-y-2 text-sm font-[family-name:var(--font-inter)]">
                     <p className="text-[var(--muted)]">
                       <span className="text-[var(--accent)]">Email:</span><br />
-                      cpardo@northfactoryllc.com
+                      media@carmenvictoriapardo.com
                     </p>
                     <p className="text-[var(--muted)]">
                       <span className="text-[var(--accent)]">WhatsApp:</span><br />
