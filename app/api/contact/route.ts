@@ -67,7 +67,7 @@ export async function POST(req: NextRequest) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "Carmen Victoria Pardo <media@carmenvictoriapardo.com>",
+        from: "Carmen Victoria Pardo <hola@media.carmenvictoriapardo.com>",
         to: ["media@carmenvictoriapardo.com"],
         reply_to: email,
         subject: `[CVP Media] ${tipo} — ${nombre}`,
