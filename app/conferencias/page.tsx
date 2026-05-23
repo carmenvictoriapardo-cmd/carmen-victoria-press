@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Contrata a Carmen Victoria Pardo como speaker para tu evento. Temas: liderazgo consciente, emprendimiento, marca personal, productividad. Disponible en toda América y España.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/conferencias",
+    canonical: "https://media.carmenvictoriapardo.com/conferencias",
   },
 };
 
@@ -45,7 +45,7 @@ const faqSchema = {
       name: "¿Cómo se contrata a Carmen Victoria Pardo para un evento?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Para contratar a Carmen Victoria Pardo para tu evento, envía una solicitud a través del formulario de contacto en press.carmenvictoriapardo.com/contacto o escribe directamente por WhatsApp al +1 (786) 975-6228. Responde en menos de 48 horas.",
+        text: "Para contratar a Carmen Victoria Pardo para tu evento, envía una solicitud a través del formulario de contacto en media.carmenvictoriapardo.com/contacto o escribe directamente por WhatsApp al +1 (786) 975-6228. Responde en menos de 48 horas.",
       },
     },
   ],
@@ -55,8 +55,8 @@ const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://press.carmenvictoriapardo.com" },
-    { "@type": "ListItem", position: 2, name: "Conferencias", item: "https://press.carmenvictoriapardo.com/conferencias" },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://media.carmenvictoriapardo.com" },
+    { "@type": "ListItem", position: 2, name: "Conferencias", item: "https://media.carmenvictoriapardo.com/conferencias" },
   ],
 };
 

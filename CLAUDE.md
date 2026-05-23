@@ -33,7 +33,7 @@ gh pr create --title "feat: descripción" --body "..."
 ```bash
 # Antes de alias-swap
 vercel env pull /tmp/v.env && grep -c "=$" /tmp/v.env  # debe ser 0 (ninguna vacía)
-curl -s -o /dev/null -w "%{http_code}" https://press.carmenvictoriapardo.com  # debe ser 200
+curl -s -o /dev/null -w "%{http_code}" https://media.carmenvictoriapardo.com  # debe ser 200
 ```
 
 ## Stack
@@ -49,7 +49,7 @@ curl -s -o /dev/null -w "%{http_code}" https://press.carmenvictoriapardo.com  # 
 
 ## Sitio
 
-- Dominio: press.carmenvictoriapardo.com
+- Dominio: media.carmenvictoriapardo.com
 - Repo: github.com/carmenvictoriapardo-cmd/carmen-victoria-press
 - Idioma default: Español
 - Inglés: /en/

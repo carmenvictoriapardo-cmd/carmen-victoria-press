@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     "Cobertura mediática de Carmen Victoria Pardo: El Tiempo (Colombia), Blu Radio, Golden Catwalk Magazine (Italia), El Venezolano (Madrid) y más.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/prensa",
+    canonical: "https://media.carmenvictoriapardo.com/prensa",
   },
 };
 
@@ -79,8 +79,8 @@ const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://press.carmenvictoriapardo.com" },
-    { "@type": "ListItem", position: 2, name: "Prensa", item: "https://press.carmenvictoriapardo.com/prensa" },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://media.carmenvictoriapardo.com" },
+    { "@type": "ListItem", position: 2, name: "Prensa", item: "https://media.carmenvictoriapardo.com/prensa" },
   ],
 };
 

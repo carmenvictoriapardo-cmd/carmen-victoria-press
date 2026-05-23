@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "Carmen Victoria Pardo en 5 ferias internacionales del libro en 2023: FILBO Bogotá, Madrid, Panamá, Miami y FIL Guadalajara. Presentación de Jugando a Ser Dios.",
   alternates: {
-    canonical: "https://press.carmenvictoriapardo.com/ferias-internacionales",
+    canonical: "https://media.carmenvictoriapardo.com/ferias-internacionales",
   },
 };
 
@@ -100,7 +100,7 @@ const eventSchemas = fairs.map((fair) => ({
   organizer: {
     "@type": "Person",
     name: "Carmen Victoria Pardo",
-    url: "https://press.carmenvictoriapardo.com",
+    url: "https://media.carmenvictoriapardo.com",
   },
   description: fair.note,
   performer: {
@@ -113,8 +113,8 @@ const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://press.carmenvictoriapardo.com" },
-    { "@type": "ListItem", position: 2, name: "Ferias Internacionales", item: "https://press.carmenvictoriapardo.com/ferias-internacionales" },
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://media.carmenvictoriapardo.com" },
+    { "@type": "ListItem", position: 2, name: "Ferias Internacionales", item: "https://media.carmenvictoriapardo.com/ferias-internacionales" },
   ],
 };
 
