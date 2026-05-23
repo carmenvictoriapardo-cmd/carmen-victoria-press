@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
+import SafeImage from "@/components/ui/SafeImage";
 import Link from "next/link";
 
 const pillars = [
@@ -52,8 +52,9 @@ export default function AboutSection() {
               <div
                 className="absolute -top-2 -left-2 w-full h-full border border-[var(--accent)]/30"
               />
-              <Image
+              <SafeImage
                 src="/images/headshots/carmen-about.jpg"
+                fallbackSrc="/images/headshots/carmen-about.svg"
                 alt="Carmen Victoria Pardo — Fundadora de North Factory LLC"
                 fill
                 className="object-cover object-center"

@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import Image from "next/image";
+import SafeImage from "@/components/ui/SafeImage";
 
 const awards = [
   "2× Emmy Awards",
@@ -140,8 +140,9 @@ export default function HeroSection() {
                 }}
               />
               <div className="absolute inset-0 bg-[var(--card)]">
-                <Image
+                <SafeImage
                   src="/images/headshots/carmen-hero.jpg"
+                  fallbackSrc="/images/headshots/carmen-hero.svg"
                   alt="Carmen Victoria Pardo — Escritora, Conductora y Coach Internacional"
                   fill
                   className="object-cover object-top"
