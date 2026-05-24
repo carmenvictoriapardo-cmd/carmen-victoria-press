@@ -17,8 +17,8 @@ const pillars = [
   },
   {
     number: "03",
-    title: "Liderazgo Consciente",
-    desc: "El método C.R.E.A.R.™ para liderar con intención, impacto y autenticidad.",
+    title: "Método C.R.E.A.R.™ Business",
+    desc: "De la idea al negocio que ejecuta: Claridad · Reordena · Estructura · Activa · Rentabiliza.",
   },
 ];
 
@@ -92,9 +92,9 @@ export default function AboutSection() {
                 Univision, con integraciones comerciales para marcas como Visa, Samsung y Johnson & Johnson.
               </p>
               <p>
-                Su Método <strong className="text-[var(--foreground)]">C.R.E.A.R.™</strong> —
-                Conciencia, Ruptura, Estructura, Ejecución con enfoque y Diferenciación — ha
-                transformado a miles de líderes y emprendedores en toda América Latina y EE.UU.
+                Su <strong className="text-[var(--foreground)]">Método C.R.E.A.R.™ Business</strong> —
+                Claridad, Reordena, Estructura, Activa y Rentabiliza — un sistema de cinco etapas
+                para transformar visión en ejecución y crecimiento.
               </p>
               <p>
                 Certificada por el <strong className="text-[var(--foreground)]">John Maxwell Team</strong>{" "}

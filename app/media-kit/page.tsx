@@ -84,9 +84,9 @@ export default function MediaKitPage() {
                       Colombia, España, Panamá, EE.UU. y México.
                     </p>
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
-                      Su Método C.R.E.A.R.™ — cinco movimientos para el liderazgo consciente: Conciencia,
-                      Ruptura, Estructura, Ejecución con enfoque y Diferenciación — ha impactado a miles de
-                      ejecutivos y emprendedores en América Latina y EE.UU. Cuenta con certificación
+                      Su Método C.R.E.A.R.™ Business — un sistema de cinco etapas: Claridad, Reordena,
+                      Estructura, Activa y Rentabiliza — de la idea al negocio que ejecuta. Ha impactado
+                      a ejecutivos y emprendedores en toda América Latina y EE.UU. Cuenta con certificación
                       John Maxwell Team y metodología de coaching ejecutivo certificada por Spencer Hoffmann.
                     </p>
                   </div>
@@ -99,7 +99,7 @@ export default function MediaKitPage() {
                   </h2>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     {[
-                      "Liderazgo Consciente con Método C.R.E.A.R.™",
+                      "De la Idea al Negocio: Método C.R.E.A.R.™ Business",
                       "Reinvención Personal: Sin Plan B",
                       "Emprendimiento de Impacto en la Era Digital",
                       "Marca Personal Internacional",
