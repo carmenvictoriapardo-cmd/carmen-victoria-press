@@ -94,6 +94,12 @@ export default function Footer() {
           </p>
           <div className="flex gap-5">
             <Link
+              href="/prensa"
+              className="text-xs text-[var(--muted)] hover:text-[var(--accent)] transition-colors font-[family-name:var(--font-inter)]"
+            >
+              Prensa
+            </Link>
+            <Link
               href="/media-kit"
               className="text-xs text-[var(--muted)] hover:text-[var(--accent)] transition-colors font-[family-name:var(--font-inter)]"
             >
