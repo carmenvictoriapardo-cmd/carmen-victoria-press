@@ -90,7 +90,7 @@ const timelineItems = [
   { year: "2008", desc: "Funda North Factory LLC en Miami, Florida" },
   { year: "2009", desc: "2× Telly Awards New York (El Juego Supremo + Letra y Música)" },
   { year: "2019", desc: "Emmy Award — Corazones Guerreros (Suncoast Chapter)" },
-  { year: "2020", desc: "Emmy Award — Los perros no saben leer (Suncoast Chapter)" },
+  { year: "2019", desc: "Emmy Award — Un minuto en la vida de un torturado (Suncoast Chapter)" },
   { year: "2023", desc: "Medalla de Oro ILBA · Marquis Who's Who · 5 Ferias Internacionales · 6 Fuentes Tier-1" },
 ];
 
