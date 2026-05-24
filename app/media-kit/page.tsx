@@ -67,13 +67,14 @@ export default function MediaKitPage() {
                       Carmen Victoria Pardo inició su carrera en los medios de comunicación en 1991 en
                       Venezuela, cuando la televisión en español de Latinoamérica vivía su época dorada.
                       En tres décadas y media, su trayectoria la llevó de periodista a productora ejecutiva,
-                      de conductora a autora galardonada, y de emprendedora local a referente internacional
+                      de escritora a autora galardonada, y de emprendedora local a referente internacional
                       de los negocios, la estrategia y el liderazgo.
                     </p>
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
-                      En 2008 fundó North Factory LLC en Miami, empresa de producción de medios que ha
-                      colaborado con Discovery Channel, Animal Planet, Univision, Telemundo, Zodiak Latino
-                      Group y marcas de consumo masivo como Visa, Samsung, Johnson & Johnson y Nintendo.
+                      En 2008 fundó North Factory LLC en Miami, empresa de producción de medios
+                      especializada en contenido para Discovery Channel, Animal Planet, Univision,
+                      Telemundo y Zodiak Latino Group, con integraciones comerciales para marcas
+                      como Visa, Samsung, Johnson & Johnson y Nintendo.
                     </p>
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
                       Su catálogo literario incluye 5 libros: <em>Jugando a Ser Dios</em> (Medalla de Oro

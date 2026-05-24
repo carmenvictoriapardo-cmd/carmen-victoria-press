@@ -27,8 +27,7 @@ export default function Footer() {
               Carmen Victoria Pardo
             </h3>
             <p className="text-sm text-[var(--muted)] leading-relaxed max-w-xs">
-              Escritora, conductora y coach con 35 años transformando vidas a través
-              de los medios y el liderazgo consciente.
+              Empresaria, autora y estratega de negocios con 35 años en medios internacionales.
             </p>
             <p className="text-xs text-[var(--muted)] mt-3">
               Doral, Miami, FL 33178

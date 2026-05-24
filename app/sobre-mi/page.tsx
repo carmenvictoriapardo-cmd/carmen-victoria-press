@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sobre Carmen Victoria Pardo",
     description:
-      "35 años transformando medios y vidas. Su historia completa: Venezuela, Miami, 5 continentes.",
+      "35 años transformando medios y vidas. Su historia completa: de Venezuela a Miami y el escenario internacional.",
   },
   alternates: {
     canonical: "https://media.carmenvictoriapardo.com/sobre-mi",
@@ -131,14 +131,14 @@ export default function SobreMiPage() {
                 <strong className="text-[var(--foreground)]">Carmen Victoria Pardo</strong> llegó
                 a los medios de comunicación en 1991, cuando Venezuela era el epicentro de la
                 televisión en español de Latinoamérica. En tres décadas, pasó de periodista a
-                productora, de conductora a autora, y de emprendedora local a referente
-                internacional del liderazgo consciente.
+                productora ejecutiva, de escritora a autora galardonada, y de emprendedora
+                local a referente internacional de los negocios y el liderazgo.
               </p>
               <p>
                 En 2008, fundó <strong className="text-[var(--foreground)]">North Factory LLC</strong>{" "}
-                en Miami, una empresa de producción de medios que ha trabajado con Discovery
-                Channel, Animal Planet, Univision, Telemundo y marcas globales como Visa,
-                Samsung, Johnson & Johnson, Nintendo y Bridgestone.
+                en Miami, empresa de producción de medios especializada en contenido para
+                Discovery Channel, Animal Planet, Univision y Telemundo, con integraciones
+                comerciales para marcas como Visa, Samsung, Johnson & Johnson, Nintendo y Bridgestone.
               </p>
               <p>
                 Su trayectoria literaria arrancó con fuerza: <em>Jugando a Ser Dios</em>,
@@ -152,8 +152,9 @@ export default function SobreMiPage() {
                 En 2023, presentó sus libros en cinco ferias internacionales:{" "}
                 <strong className="text-[var(--foreground)]">FILBO Bogotá, Feria del Libro de
                 Madrid, Feria del Libro de Panamá, Feria del Libro de Miami y FIL Guadalajara</strong>.
-                Durante ese año fue entrevistada por Blu Radio, El Tiempo (Colombia), Golden
-                Catwalk Magazine (Italia) y El Venezolano (Madrid).
+                Durante ese año fue entrevistada por Blu Radio, El Tiempo (Colombia) y El
+                Venezolano (Madrid). En 2025, Golden Catwalk Magazine (Italia, 90+ países)
+                la incluyó en su edición internacional.
               </p>
               <p>
                 Su <strong className="text-[var(--foreground)]">Método C.R.E.A.R.™</strong> —
@@ -161,9 +162,11 @@ export default function SobreMiPage() {
                 aplicado por miles de ejecutivos y emprendedores en toda América Latina y
                 Estados Unidos. Es certificada por el{" "}
                 <strong className="text-[var(--foreground)]">John Maxwell Team</strong>,
-                en Amor Consciente por{" "}
-                <strong className="text-[var(--foreground)]">Spencer Hoffmann</strong>, y
-                formada con Andrés Panasiuk y Tony Robbins.
+                en Amor Consciente por su mentor{" "}
+                <strong className="text-[var(--foreground)]">Spencer Hoffmann</strong>.
+                Cuenta con la mentoría de{" "}
+                <strong className="text-[var(--foreground)]">Andrés Panasiuk</strong>{" "}
+                y ha participado en talleres de Tony Robbins.
               </p>
               <p>
                 Conduce el podcast{" "}
