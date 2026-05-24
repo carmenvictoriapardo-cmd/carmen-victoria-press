@@ -82,15 +82,14 @@ export default function AboutSection() {
 
             <div className="space-y-4 text-[var(--muted)] font-[family-name:var(--font-inter)] text-sm leading-relaxed mt-4">
               <p>
-                Carmen Victoria Pardo es una fuerza imparable en el mundo de los medios, la
-                literatura y el coaching internacional. Con más de 35 años de carrera iniciada
-                en Venezuela y proyectada al mundo desde Miami, ha dejado su huella en cinco
-                continentes.
+                Carmen Victoria Pardo es empresaria, autora y estratega de negocios con más
+                de 35 años de carrera iniciada en Venezuela y proyectada al mundo desde Miami.
+                Su trabajo ha trascendido fronteras en América Latina, Europa y Estados Unidos.
               </p>
               <p>
                 Fundadora y CEO de <strong className="text-[var(--foreground)]">North Factory LLC</strong>{" "}
                 desde 2008, ha producido contenido para Discovery Channel, Animal Planet,
-                Univision y marcas globales como Visa, Samsung y Johnson & Johnson.
+                Univision, con integraciones comerciales para marcas como Visa, Samsung y Johnson & Johnson.
               </p>
               <p>
                 Su Método <strong className="text-[var(--foreground)]">C.R.E.A.R.™</strong> —
@@ -98,9 +97,11 @@ export default function AboutSection() {
                 transformado a miles de líderes y emprendedores en toda América Latina y EE.UU.
               </p>
               <p>
-                Entrenada por <strong className="text-[var(--foreground)]">John Maxwell</strong>,{" "}
-                certificada en <strong className="text-[var(--foreground)]">Amor Consciente</strong>{" "}
-                por Spencer Hoffmann, y formada con Andrés Panasiuk, Tony Robbins y Grant Cardone.
+                Certificada por el <strong className="text-[var(--foreground)]">John Maxwell Team</strong>{" "}
+                y en <strong className="text-[var(--foreground)]">Amor Consciente</strong>{" "}
+                por su mentor Spencer Hoffmann. Mentoreada por{" "}
+                <strong className="text-[var(--foreground)]">Andrés Panasiuk</strong>.
+                Ha participado en talleres de Tony Robbins y Grant Cardone.
               </p>
             </div>
 
