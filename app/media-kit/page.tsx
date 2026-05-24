@@ -43,15 +43,16 @@ export default function MediaKitPage() {
                   </h2>
                   <div className="bg-[var(--card)] border border-[var(--border)] p-5">
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
-                      Carmen Victoria Pardo es escritora, conductora de medios y coach internacional
-                      con 35 años de trayectoria. Fundadora y CEO de North Factory LLC (Miami, 2008),
-                      ha producido contenido para Discovery Channel, Univision y Telemundo. Ganadora
-                      de 2 Emmy Awards (Suncoast, 2019-2020), 2 Telly Awards New York (2009) y la
-                      Medalla de Oro del International Latino Book Awards 2023. Autora de 5 libros
-                      incluyendo la novela <em>Jugando a Ser Dios</em> (en negociación para serie) y
-                      el sistema de productividad <em>Master Time</em>. Su Método C.R.E.A.R.™ ha
-                      transformado a miles de líderes en América Latina y EE.UU. Conduce el podcast
-                      <em> Sin Plan B</em> en Apple Podcasts y Spotify.
+                      Carmen Victoria Pardo es empresaria, autora y estratega de negocios con
+                      35 años de trayectoria en medios internacionales. Fundadora y CEO de North
+                      Factory LLC (Miami, 2008), ha producido contenido para Discovery Channel,
+                      Univision y Telemundo. Ganadora de 2 Emmy Awards (Suncoast, 2019-2020),
+                      2 Telly Awards New York (2009) y la Medalla de Oro del International Latino
+                      Book Awards 2023. Autora de 5 libros incluyendo <em>Jugando a Ser Dios</em>
+                      (en negociación para serie) y el sistema <em>Master Time</em>. Su Método
+                      C.R.E.A.R.™ — que fusiona estrategia, liderazgo y ejecución — ha impactado
+                      a miles de emprendedores y empresas en América Latina y EE.UU. Conduce el
+                      podcast <em>Sin Plan B</em> en Apple Podcasts y Spotify.
                     </p>
                   </div>
                 </div>
@@ -67,7 +68,7 @@ export default function MediaKitPage() {
                       Venezuela, cuando la televisión en español de Latinoamérica vivía su época dorada.
                       En tres décadas y media, su trayectoria la llevó de periodista a productora ejecutiva,
                       de conductora a autora galardonada, y de emprendedora local a referente internacional
-                      del liderazgo y el coaching.
+                      de los negocios, la estrategia y el liderazgo.
                     </p>
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
                       En 2008 fundó North Factory LLC en Miami, empresa de producción de medios que ha
@@ -84,8 +85,8 @@ export default function MediaKitPage() {
                     <p className="text-sm text-[var(--muted)] font-[family-name:var(--font-inter)] leading-relaxed">
                       Su Método C.R.E.A.R.™ — cinco movimientos para el liderazgo consciente: Conciencia,
                       Ruptura, Estructura, Ejecución con enfoque y Diferenciación — ha impactado a miles de
-                      ejecutivos y emprendedores. Es coach certificada por el John Maxwell Team y en Amor
-                      Consciente por Spencer Hoffmann.
+                      ejecutivos y emprendedores en América Latina y EE.UU. Cuenta con certificación
+                      John Maxwell Team y metodología de coaching ejecutivo certificada por Spencer Hoffmann.
                     </p>
                   </div>
                 </div>

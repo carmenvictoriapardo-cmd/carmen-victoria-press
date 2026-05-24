@@ -26,7 +26,7 @@ const faqSchema = {
       name: "¿Quién es Carmen Victoria Pardo?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Carmen Victoria Pardo es una escritora, conductora de medios y coach internacional con más de 35 años de carrera. Fundadora y CEO de North Factory LLC desde 2008, ha ganado 2 Emmy Awards, 2 Telly Awards y la Medalla de Oro del International Latino Book Awards 2023.",
+        text: "Carmen Victoria Pardo es empresaria, autora y estratega de negocios con más de 35 años de trayectoria en medios internacionales. Fundadora y CEO de North Factory LLC desde 2008, ha ganado 2 Emmy Awards, 2 Telly Awards y la Medalla de Oro del International Latino Book Awards 2023.",
       },
     },
     {

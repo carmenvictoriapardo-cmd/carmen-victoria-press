@@ -19,15 +19,17 @@ const siteUrl = "https://media.carmenvictoriapardo.com";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Carmen Victoria Pardo — Escritora, Conductora & Coach Internacional",
+    default: "Carmen Victoria Pardo — Empresaria, Autora & Estratega de Negocios",
     template: "%s | Carmen Victoria Pardo",
   },
   description:
-    "Escritora de 5 libros, ganadora de 2 Emmy Awards, 2 Telly Awards y Medalla de Oro ILBA. Fundadora & CEO de North Factory LLC. 35 años en medios internacionales.",
+    "Fundadora & CEO de North Factory LLC. Autora de 5 libros. Estratega de negocios con 35 años en medios internacionales. 2× Emmy Awards. Ayudo a emprendedores y empresas a impulsar, estructurar y acelerar su crecimiento.",
   keywords: [
     "Carmen Victoria Pardo",
     "escritora venezolana Miami",
-    "coach liderazgo",
+    "estratega de negocios",
+    "business strategist",
+    "emprendedora Miami",
     "North Factory LLC",
     "Emmy Award",
     "Jugando a ser Dios",
@@ -44,9 +46,9 @@ export const metadata: Metadata = {
     alternateLocale: "en_US",
     url: siteUrl,
     siteName: "Carmen Victoria Pardo",
-    title: "Carmen Victoria Pardo — Escritora, Conductora & Coach Internacional",
+    title: "Carmen Victoria Pardo — Empresaria, Autora & Estratega de Negocios",
     description:
-      "35 años en medios internacionales. 2× Emmy Awards. 5 libros publicados. Fundadora & CEO de North Factory LLC.",
+      "Fundadora & CEO de North Factory LLC. Autora de 5 libros. 2× Emmy Awards. Estratega de negocios con 35 años en medios internacionales.",
     images: [
       {
         url: "/images/og-default.jpg",
@@ -58,9 +60,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Carmen Victoria Pardo — Escritora, Conductora & Coach Internacional",
+    title: "Carmen Victoria Pardo — Empresaria, Autora & Estratega de Negocios",
     description:
-      "35 años en medios internacionales. 2× Emmy Awards. 5 libros publicados.",
+      "Fundadora & CEO de North Factory LLC. Autora de 5 libros. 2× Emmy Awards. 35 años en medios internacionales.",
     images: ["/images/og-default.jpg"],
   },
   robots: {

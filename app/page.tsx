@@ -16,7 +16,7 @@ const personSchema = {
   givenName: "Carmen Victoria",
   familyName: "Pardo",
   description:
-    "Escritora, conductora y coach internacional con 35 años en medios. Fundadora & CEO de North Factory LLC. Ganadora de 2 Emmy Awards, 2 Telly Awards y Medalla de Oro ILBA.",
+    "Empresaria, autora y estratega de negocios venezolano-estadounidense. Fundadora & CEO de North Factory LLC. 35 años en medios internacionales. Ganadora de 2 Emmy Awards, 2 Telly Awards y Medalla de Oro ILBA.",
   url: "https://media.carmenvictoriapardo.com",
   sameAs: [
     "https://carmenvictoriapardo.com",
