@@ -106,10 +106,10 @@ export default function ConferenciasPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
               {[
                 {
-                  title: "Liderazgo Consciente con Método C.R.E.A.R.™",
+                  title: "De la Idea al Negocio: Método C.R.E.A.R.™ Business",
                   icon: "🎯",
-                  desc: "Los 5 movimientos del liderazgo auténtico: Conciencia, Ruptura, Estructura, Ejecución con enfoque y Diferenciación. Para líderes que quieren resultados reales sin perder su esencia.",
-                  best: "Congresos de liderazgo, empresas Fortune 500, eventos corporativos",
+                  desc: "Las 5 etapas: Claridad, Reordena, Estructura, Activa y Rentabiliza. Para emprendedores y empresas que quieren pasar de la idea a la ejecución real y el crecimiento sostenido.",
+                  best: "Congresos empresariales, cámaras de comercio, eventos corporativos",
                 },
                 {
                   title: "Reinvención Personal: Sin Plan B",

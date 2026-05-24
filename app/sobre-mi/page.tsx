@@ -42,7 +42,7 @@ const faqSchema = {
       name: "¿Qué es el Método C.R.E.A.R.™?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "El Método C.R.E.A.R.™ es la metodología propia de Carmen Victoria Pardo para el liderazgo y el emprendimiento consciente. Sus 5 movimientos son: Conciencia, Ruptura, Estructura, Ejecución con enfoque y Diferenciación. Se aplica en conferencias, mentorías y programas de formación.",
+        text: "El Método C.R.E.A.R.™ Business es la metodología propia de Carmen Victoria Pardo para transformar visión en ejecución y crecimiento. Sus 5 etapas son: Claridad, Reordena, Estructura, Activa y Rentabiliza. De la idea al negocio que ejecuta. Se aplica en conferencias, mentorías y programas de negocios.",
       },
     },
     {
@@ -156,10 +156,10 @@ export default function SobreMiPage() {
                 Catwalk Magazine (Italia) y El Venezolano (Madrid).
               </p>
               <p>
-                Su <strong className="text-[var(--foreground)]">Método C.R.E.A.R.™</strong> —
-                cinco movimientos para el liderazgo y el emprendimiento consciente — ha sido
-                aplicado por miles de ejecutivos y emprendedores en toda América Latina y
-                Estados Unidos. Es certificada por el{" "}
+                Su <strong className="text-[var(--foreground)]">Método C.R.E.A.R.™ Business</strong> —
+                un sistema de cinco etapas para transformar visión en decisiones, decisiones
+                en ejecución y ejecución en crecimiento — ha sido aplicado por ejecutivos y
+                emprendedores en toda América Latina y Estados Unidos. Es certificada por el{" "}
                 <strong className="text-[var(--foreground)]">John Maxwell Team</strong>,
                 en Amor Consciente por{" "}
                 <strong className="text-[var(--foreground)]">Spencer Hoffmann</strong>, y
