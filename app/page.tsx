@@ -69,7 +69,7 @@ const personSchema = {
     },
   ],
   award: [
-    "2× Suncoast Emmy Awards (2019, 2020)",
+    "2× Suncoast Emmy Awards (2019)",
     "2× Telly Awards New York (2009)",
     "Gold Medal ILBA — Best Fiction Book 2023",
     "Marquis Who's Who Honored Lister 2023",

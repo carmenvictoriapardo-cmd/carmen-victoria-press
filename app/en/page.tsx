@@ -93,7 +93,7 @@ export default function EnglishPage() {
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {[
-                { icon: "🏆", title: "2× Emmy Awards", sub: "Suncoast Chapter 2019 & 2020" },
+                { icon: "🏆", title: "2× Emmy Awards", sub: "Suncoast Chapter 2019" },
                 { icon: "🎬", title: "2× Telly Awards", sub: "New York 2009" },
                 { icon: "📚", title: "Gold Medal ILBA", sub: "Best Fiction Book 2023" },
                 { icon: "⭐", title: "Marquis Who's Who", sub: "Honored Lister 2023" },

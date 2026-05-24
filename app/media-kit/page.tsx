@@ -46,7 +46,7 @@ export default function MediaKitPage() {
                       Carmen Victoria Pardo es empresaria, autora y estratega de negocios con
                       35 años de trayectoria en medios internacionales. Fundadora y CEO de North
                       Factory LLC (Miami, 2008), ha producido contenido para Discovery Channel,
-                      Univision y Telemundo. Ganadora de 2 Emmy Awards (Suncoast, 2019-2020),
+                      Univision y Telemundo. Ganadora de 2 Emmy Awards (Suncoast, 2019),
                       2 Telly Awards New York (2009) y la Medalla de Oro del International Latino
                       Book Awards 2023. Autora de 5 libros incluyendo <em>Jugando a Ser Dios</em>
                       (en negociación para serie) y el sistema <em>Master Time</em>. Su Método

@@ -6,8 +6,8 @@ const awards = [
   {
     icon: "🏆",
     title: "2× Emmy Awards",
-    years: "2019 & 2020",
-    details: ["Corazones Guerreros (2019)", "Los perros no saben leer (2020)"],
+    years: "2019",
+    details: ["Corazones Guerreros (2019)", "Un minuto en la vida de un torturado (2019)"],
     org: "Suncoast Chapter",
   },
   {
