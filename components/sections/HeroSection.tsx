@@ -65,7 +65,7 @@ export default function HeroSection() {
               transition={{ duration: 0.7, delay: 0.2 }}
               className="text-lg text-[#c0b9b0] max-w-md mb-6 font-[family-name:var(--font-inter)] leading-relaxed"
             >
-              Escritora. Conductora. Coach Internacional.
+              Empresaria. Autora. Estratega de Negocios.
               Fundadora & CEO de{" "}
               <a
                 href="https://northfactoryllc.com"
@@ -143,7 +143,7 @@ export default function HeroSection() {
                 <SafeImage
                   src="/images/headshots/carmen-hero.jpg"
                   fallbackSrc="/images/headshots/carmen-hero.svg"
-                  alt="Carmen Victoria Pardo — Escritora, Conductora y Coach Internacional"
+                  alt="Carmen Victoria Pardo — Empresaria, Autora y Estratega de Negocios"
                   fill
                   className="object-cover object-top"
                   priority
