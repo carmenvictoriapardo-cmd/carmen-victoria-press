@@ -63,6 +63,9 @@ export const metadata: Metadata = {
       "35 años en medios internacionales. 2× Emmy Awards. 5 libros publicados.",
     images: ["/images/og-default.jpg"],
   },
+  verification: {
+    google: "571c33d16a66c6fb",
+  },
   robots: {
     index: true,
     follow: true,
