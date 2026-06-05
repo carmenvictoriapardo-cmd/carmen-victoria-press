@@ -85,12 +85,15 @@ const breadcrumbSchema = {
 
 const timelineItems = [
   { year: "1989–1992", desc: "Associate Degree en Publicidad — IUTV Venezuela" },
-  { year: "1991", desc: "Inicia su carrera en medios de comunicación" },
+  { year: "1991", desc: "Inicia su carrera en medios de comunicación en Venezuela" },
+  { year: "1993", desc: "Premio Monseñor Pellín — Mejor Programa de TV: \"Venezuela en Positivo\"" },
+  { year: "1994", desc: "Premio Municipal de Periodismo (2×) + Premio Meridiano de Oro — Venezuela" },
   { year: "1994–1999", desc: "Bachelor's en Broadcasting — UCAB Caracas" },
+  { year: "1995", desc: "Premio Monseñor Pellín — Programa del Año: \"Ni lo Uno Ni lo Otro\"" },
+  { year: "2001", desc: "Premio ATVC Argentina — Mejor Periodismo Informativo: \"Top E! Music & News\"" },
   { year: "2008", desc: "Funda North Factory LLC en Miami, Florida" },
   { year: "2009", desc: "2× Telly Awards New York (El Juego Supremo + Letra y Música)" },
-  { year: "2019", desc: "Emmy Award — Corazones Guerreros (Suncoast Chapter)" },
-  { year: "2019", desc: "Emmy Award — Un minuto en la vida de un torturado (Suncoast Chapter)" },
+  { year: "2019", desc: "2× Suncoast Emmy Awards — Corazones Guerreros & Un minuto en la vida de un torturado" },
   { year: "2023", desc: "Medalla de Oro ILBA · Marquis Who's Who · 5 Ferias Internacionales · 6 Fuentes Tier-1" },
 ];
 
@@ -136,17 +139,20 @@ export default function SobreMiPage() {
               </p>
               <p>
                 En 2008, fundó <strong className="text-[var(--foreground)]">North Factory LLC</strong>{" "}
-                en Miami, empresa de producción de medios especializada en contenido para
-                Discovery Channel, Animal Planet, Univision y Telemundo, con integraciones
-                comerciales para marcas como Visa, Samsung, Johnson & Johnson, Nintendo y Bridgestone.
+                en Miami, empresa de producción de medios que ha prestado servicios como vendor para
+                Discovery Home & Health, Discovery en Español, Discovery Science, Discovery Kids,
+                Animal Planet, Univision y Telemundo, con integraciones comerciales para marcas
+                como Visa, Samsung, Johnson & Johnson, Nintendo y Bridgestone.
               </p>
               <p>
-                Su trayectoria literaria arrancó con fuerza: <em>Jugando a Ser Dios</em>,
-                novela co-escrita con Nelson Bustamante, ganó la{" "}
+                Su trayectoria literaria arrancó con fuerza: <em>Jugando a Ser Dios</em>{" "}
+                (<em>Playing God</em> en inglés), novela de ciencia ficción co-escrita con Nelson
+                Bustamante que parte de hechos reales y confronta la ciencia, la fe y el poder
+                económico mundial enfrentados por la clonación del Hijo de Dios. Ganó la{" "}
                 <strong className="text-[var(--foreground)]">Medalla de Oro del International
                 Latino Book Awards 2023</strong>{" "}
-                y una Mención Honorífica como Mejor Libro de Ciencia Ficción. La novela está
-                actualmente en negociación para adaptación a serie.
+                y una Mención Honorífica como Mejor Libro de Ciencia Ficción. Actualmente en
+                negociación para adaptación a serie televisiva.
               </p>
               <p>
                 En 2023, presentó sus libros en cinco ferias internacionales:{" "}
