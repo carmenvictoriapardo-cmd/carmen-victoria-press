@@ -16,10 +16,11 @@ const personSchema = {
   givenName: "Carmen Victoria",
   familyName: "Pardo",
   description:
-    "Empresaria, autora y estratega de negocios venezolano-estadounidense. Fundadora & CEO de North Factory LLC. 35 años en medios internacionales. Ganadora de 2 Emmy Awards, 2 Telly Awards y Medalla de Oro ILBA.",
+    "Empresaria, autora y estratega de negocios venezolano-estadounidense. Fundadora & CEO de North Factory LLC. 35 años en medios internacionales. Ganadora de 2 Suncoast Emmy Awards (2019), 2 Telly Awards y Medalla de Oro ILBA 2023. Creadora del Método C.R.E.A.R.™ Business.",
   url: "https://media.carmenvictoriapardo.com",
   sameAs: [
     "https://carmenvictoriapardo.com",
+    "https://www.wikidata.org/wiki/Q139903862",
     "https://www.instagram.com/soycarmenvictoriapardo",
     "https://www.tiktok.com/@soycarmenvictoriapardo",
     "https://www.facebook.com/cvpardo1",
@@ -28,6 +29,8 @@ const personSchema = {
     "https://podcasts.apple.com/us/podcast/sin-plan-b/id1814360334",
     "https://open.spotify.com/show/4NZXxUFOqxvnxwaSfLht08",
     "https://www.amazon.com/author/carmenvictoriapardo",
+    "https://northfactoryllc.com",
+    "https://app.qwoted.com/sources/carmen-victoria-pardo",
   ],
   jobTitle: "Founder & CEO",
   worksFor: {
