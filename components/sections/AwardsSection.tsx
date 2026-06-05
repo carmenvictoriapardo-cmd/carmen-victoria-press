@@ -95,15 +95,29 @@ export default function AwardsSection() {
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.4 }}
-          className="mt-8 p-5 border border-[var(--border)] bg-[var(--card)]"
+          className="mt-8 border border-[var(--border)] bg-[var(--card)] p-6"
         >
-          <p className="text-xs text-[var(--muted)] font-[family-name:var(--font-inter)] text-center leading-relaxed">
-            También reconocida con:{" "}
-            <span className="text-[var(--foreground)]">
-              Premios 2 de Oro (Venezuela) · Premios ATVC (Argentina) · Premio Monseñor Pellín ·
-              Premio Meridiano de Oro · Premio Municipal de Periodismo
-            </span>
+          <p className="text-xs text-[var(--accent)] tracking-[0.2em] uppercase font-[family-name:var(--font-inter)] mb-4 text-center">
+            Reconocimientos anteriores
           </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {[
+              { year: "2001", award: "Premio ATVC", org: "Argentina", detail: "Mejor Periodismo Informativo · \"Top E! Music & News\"" },
+              { year: "1995", award: "Premio Monseñor Pellín", org: "Venezuela", detail: "Programa del Año · \"Ni lo Uno Ni lo Otro\"" },
+              { year: "1994", award: "Premio Meridiano de Oro", org: "Venezuela", detail: "Mejor Programa de Radio · \"Ni lo Uno Ni lo Otro\"" },
+              { year: "1994", award: "Premio Municipal de Periodismo", org: "Venezuela", detail: "Mejor Producción · \"Los Años de lo Imposible\"" },
+              { year: "1994", award: "Premio Municipal de Periodismo", org: "Venezuela", detail: "Mejor Programa de TV · \"Venezuela en Positivo\"" },
+              { year: "1993", award: "Premio Monseñor Pellín", org: "Venezuela", detail: "Mejor Programa de TV · \"Venezuela en Positivo\"" },
+            ].map((item) => (
+              <div key={item.year + item.detail} className="flex gap-3 items-start">
+                <span className="text-[var(--accent)] text-xs font-[family-name:var(--font-inter)] font-semibold shrink-0 mt-0.5">{item.year}</span>
+                <div>
+                  <p className="text-xs text-[var(--foreground)] font-[family-name:var(--font-inter)] font-medium">{item.award}</p>
+                  <p className="text-xs text-[var(--muted)] font-[family-name:var(--font-inter)]">{item.org} · {item.detail}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </motion.div>
       </div>
     </section>

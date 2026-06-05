@@ -72,10 +72,17 @@ const personSchema = {
     },
   ],
   award: [
-    "2× Suncoast Emmy Awards (2019)",
-    "2× Telly Awards New York (2009)",
-    "Gold Medal ILBA — Best Fiction Book 2023",
+    "2× Suncoast Emmy Awards (2019) — Corazones Guerreros & Un minuto en la vida de un torturado",
+    "2× Telly Awards New York (2009) — El Juego Supremo & Letra y Música",
+    "Gold Medal ILBA 2023 — Best Fiction: Jugando a Ser Dios",
+    "Honorable Mention ILBA 2023 — Best Science Fiction",
     "Marquis Who's Who Honored Lister 2023",
+    "Premio ATVC Argentina 2001 — Best Informative Journalism: Top E! Music & News",
+    "Premio Monseñor Pellín Venezuela 1995 — Program of the Year: Ni lo Uno Ni lo Otro",
+    "Premio Meridiano de Oro Venezuela 1994 — Radio Program of the Year: Ni lo Uno Ni lo Otro",
+    "Premio Municipal de Periodismo Venezuela 1994 — Best Production: Los Años de lo Imposible",
+    "Premio Municipal de Periodismo Venezuela 1994 — Best TV Program: Venezuela en Positivo",
+    "Premio Monseñor Pellín Venezuela 1993 — Best TV Program: Venezuela en Positivo",
   ],
   interactionStatistic: [
     {
