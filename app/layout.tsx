@@ -70,6 +70,9 @@ export const metadata: Metadata = {
   },
   verification: {
     google: "lz_MMrKVUgd3Fg-mS4b8jpXEjuaQw2L_xmR0NwaKdow",
+    other: {
+      "msvalidate.01": "01F05AEA6AAE417D984DAC2CDAA75CED",
+    },
   },
   robots: {
     index: true,
